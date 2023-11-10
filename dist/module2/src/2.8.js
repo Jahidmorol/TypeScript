@@ -28,7 +28,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
             }
         });
     };
-    // calling create promise function
+    // calling create promise function---->
     const showData = () => __awaiter(void 0, void 0, void 0, function* () {
         const data = yield createPromise();
         // console.log(data);

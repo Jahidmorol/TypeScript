@@ -1,7 +1,7 @@
 {
   //
 
-  //promise
+  //promise---->
 
   type Todo = {
     id: number;
@@ -34,7 +34,7 @@
     });
   };
 
-  // calling create promise function
+  // calling create promise function---->
   const showData = async (): Promise<Something> => {
     const data: Something = await createPromise();
     // console.log(data);
