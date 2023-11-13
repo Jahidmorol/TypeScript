@@ -82,13 +82,5 @@
     getShapeArea(shape2)
     getShapeArea(shape3)
 
-
-
-
-
-
-
-
-
   //
 }
